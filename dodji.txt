@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 je suis dodji
 1ere modification
+<<<<<<< HEAD
 =======
 1ere modification
 >>>>>>> modification1
+=======
+gestion des conflits importante 
+
+>>>>>>> modification2
