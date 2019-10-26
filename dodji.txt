@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 je suis dodji
 1ere modification
+=======
+1ere modification
+>>>>>>> modification1
