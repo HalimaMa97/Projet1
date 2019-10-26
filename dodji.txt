@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 je suis azza
 oui 
 =======
 je suis dodji
 1ere modification
+=======
+<<<<<<< HEAD
+je suis dodji
+1ere modification
+=======
+1ere modification
+>>>>>>> modification1
 >>>>>>> modification1
