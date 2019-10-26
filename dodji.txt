@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 je suis dodji
 1ere modification
 <<<<<<< HEAD
@@ -9,3 +10,9 @@ je suis dodji
 gestion des conflits importante 
 
 >>>>>>> modification2
+=======
+je suis dodji
+1ere modification
+gestion des conflits importante 
+
+>>>>>>> dcd98969bddb902c08b310b70b6f3ef2d9974949
