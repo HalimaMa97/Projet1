@@ -1,2 +1,6 @@
 je suis dodji.
 De nos jour on peut apprendre tout, et je dis bien tout avec google. Il suffit de bien chercher.
+=======
+je suis azza
+>>>>>>> file
+oui 
