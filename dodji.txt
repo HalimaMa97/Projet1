@@ -1,36 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 je suis azza
 oui 
-=======
 je suis dodji
 1ere modification
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 je suis dodji
 1ere modification
-<<<<<<< HEAD
-=======
-1ere modification
->>>>>>> modification1
-<<<<<<< HEAD
->>>>>>> modification1
-=======
-=======
 gestion des conflits importante 
-
->>>>>>> modification2
->>>>>>> modification2
-=======
 je suis dodji
 1ere modification
->>>>>>> modification1
-=======
-1ere modification
->>>>>>> modification1
-=======
+modification1
 gestion des conflits importante 
-
->>>>>>> modification2
+testt
