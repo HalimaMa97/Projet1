@@ -6,6 +6,7 @@ oui
 =======
 je suis dodji
 1ere modification
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 je suis dodji
@@ -29,3 +30,7 @@ je suis dodji
 =======
 1ere modification
 >>>>>>> modification1
+=======
+gestion des conflits importante 
+
+>>>>>>> modification2
